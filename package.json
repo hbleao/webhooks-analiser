@@ -1,0 +1,11 @@
+{
+  "name": "webhooks-analizer",
+  "version": "1.0.0",
+  "description": "",
+  "private": "true",
+  "workspaces": [
+    "api",
+    "web"
+  ],
+  "packageManager": "npm@11.4.2"
+}
